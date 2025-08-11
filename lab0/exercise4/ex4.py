@@ -9,3 +9,5 @@ valor_arredondado = round(valor_bruto, 2)
 
 # Formata com no máximo duas casas (remove zeros finais desnecessários)
 print("Cada amigo deve pagar: R$", valor_arredondado)
+# ou
+print(f"Cada amigo deve pagar: R$ {valor_bruto:.2f}")
