@@ -1,20 +1,33 @@
-## Reunião de Planejamento: Aula 1 (11/08/2025)
+# 🚀 Plano de Aula: Semana 1
 
-## Roteiro 
+**Data:** 11 de agosto de 2025
 
-- [] **Boas-vindas e apresentação (ambos)**
-    - Apenas no primeiro dia;
-    - Fazer a apresentação dos instrutores;
-    - Explicar a estrutura das aulas;
-    - Falar sobre o formulário, para a colaboração com um TCC (em announcements) e esperar eles responderem;
-    - Perguntar se eles assistiram as aulas dessa semana.
+Este documento descreve o roteiro planejado para a primeira aula do curso.
 
-- [] **Acompanhamento da frequência (instrutor 1)**
-    - Pegar o nome completo e e-mail (válido) dos alunos, para emissão dos certificados e preencher na planilha;
-    - Acompanhar o chat e tirar as possíveis dúvidas de lá.
+---
 
-- [] **Apresentação de duas questões (instrutor 2)**
-    - Resolver as duas questões inicialmente (3a e 10a), apresentando a eles;
-    - Pular as duas primeiras questões por serem básicas demais, e pedir para eles irem resolvendo os demais exercicíos da lista (mandar as respostas no chat);
-    - Dar um pequeno intervalo de tempo e, caso alguém não consiga resolver, pedir para essa pessoa tentar solucionar com o instrutor.
-    
+### ✅ Roteiro da Aula
+
+-   **Boas-vindas e Apresentação Geral** `(Ambos os instrutores)`
+    -   Apresentação dos instrutores e da dinâmica do curso.
+    -   Explicação sobre a estrutura geral das aulas.
+    -   Divulgação do formulário de colaboração com TCC (disponível no canal de *announcements*).
+    -   Verificação se os alunos assistiram ao conteúdo assíncrono da semana.
+
+-   **Apoio e Acompanhamento** `(Instrutor 1)`
+    -   Coleta de nome completo e e-mail dos alunos para emissão dos certificados.
+    -   Monitoramento do chat para responder dúvidas em tempo real.
+
+-   **Atividade Prática** `(Instrutor 2)`
+    -   Resolução guiada das questões `3` e `10` como exemplo inicial.
+    -   Proposta para que os alunos resolvam os demais exercícios da lista e enviem as respostas pelo chat.
+    -   Suporte individual para alunos com dificuldades após um tempo determinado para a atividade.
+
+---
+
+### 👨‍🏫 Instrutores da Semana
+
+> **Responsabilidades do Instrutor 1:**
+>
+> -   **Segunda-feira:** Samara
+> -   **Terça-feira:** Thiago
