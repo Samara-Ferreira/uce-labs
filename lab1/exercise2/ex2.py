@@ -4,7 +4,7 @@
 valor = int(input("Digite o valor que deseja sacar (múltiplo de 10): "))
 
 # Cálculo das notas
-notas_100 = valor // 100
+notas_100 = valor // 100 # Divisão inteira
 valor = valor % 100
 
 notas_50 = valor // 50
